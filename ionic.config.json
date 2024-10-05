@@ -1,0 +1,7 @@
+{
+  "name": "MiPlazaNorte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
